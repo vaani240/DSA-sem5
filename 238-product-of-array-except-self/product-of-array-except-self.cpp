@@ -17,5 +17,7 @@ public:
             ans[i]=prefix[i]*suffix[i];
         }
         return ans;
+
+
     }
 };
